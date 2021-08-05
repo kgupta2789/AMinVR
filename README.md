@@ -15,9 +15,14 @@ We have created four meaningful VR environments using focus groups. Participants
 
 ### Encoding-phase:
 
-Participants are seated in a roller coaster cart holding the handle in front of them in the old millride scenario. The train makes gentle and smooth ride that can be controlled by them using the start and stopbuttons attached to the handle and are asked to stop the train if they find anything of interest for them. The virtual environment consists of multiple scenes intending to simulate different emotional experiences. After the completion of each scene, the participants are asked to report their subjective emotional state using the Self-Assessment Manikin Scale (SAM). The stopping of the train and the picture taken with coordinates are logged along with Eye-Tracking data (CAN BE FOUND HERE).
+Participants are seated in a roller coaster cart holding the handle in front of them in the old millride scenario. The train makes gentle and smooth ride that can be controlled by them using the start and stopbuttons attached to the handle and are asked to stop the train if they find anything of interest for them. The virtual environment consists of multiple scenes intending to simulate different emotional experiences. After the completion of each scene, the participants are asked to report their subjective emotional state using the Self-Assessment Manikin Scale (SAM). The stopping of the train and the picture taken with coordinates are logged along with Eye-Tracking data (CAN BE FOUND HERE https://github.com/kgupta2789/AMinVR/tree/main/data/pupil).
 
-A video of the encoding phase can be found here: https://www.dropbox.com/t/mfcXMOZ9H68kpmZw
+A video of the encoding phase can be found here: 
+
+[![](https://img.youtube.com/vi/YmGb7Oi5CHNc/1.jpg)](https://www.youtube.com/watch?v=mGb7Oi5CHNc)
+
+
+
 
 ### Retrieval-Phase:
 
@@ -25,7 +30,7 @@ Two days later participants are transported to the location where they took a pi
 
 ### Measurements
 
-During the retrieval-phase, we measure the electroencephalogram, galvanic skin response, heart rate and obtain familiarity ratings.
+During the retrieval-phase, we measure the electroencephalogram, galvanic skin response, heart rate variability, pupil responses and obtain familiarity ratings.
 
 ## Project status
 
@@ -33,4 +38,4 @@ Currently data is being collected. The dataset will be labeled and uploaded on t
 
 ## Aknowledgements:
 
-This research is supported by the HumaneAI Net, the DFKI (German Research Centre for Artificial Intelligence) and the LMU Munich.
+This research is supported by the HumaneAI Net, the DFKI (German Research Centre for Artificial Intelligence), the University of Auckland, and the LMU Munich.
