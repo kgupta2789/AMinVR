@@ -17,12 +17,7 @@ We have created four meaningful VR environments using focus groups. Participants
 
 Participants are seated in a roller coaster cart holding the handle in front of them in the old millride scenario. The train makes gentle and smooth ride that can be controlled by them using the start and stopbuttons attached to the handle and are asked to stop the train if they find anything of interest for them. The virtual environment consists of multiple scenes intending to simulate different emotional experiences. After the completion of each scene, the participants are asked to report their subjective emotional state using the Self-Assessment Manikin Scale (SAM). The stopping of the train and the picture taken with coordinates are logged along with Eye-Tracking data (CAN BE FOUND HERE https://github.com/kgupta2789/AMinVR/tree/main/data/pupil).
 
-A video of the encoding phase can be found here: 
-
-[![](https://img.youtube.com/vi/YmGb7Oi5CHNc/1.jpg)](https://www.youtube.com/watch?v=mGb7Oi5CHNc)
-
-
-
+A video of the encoding phase can be found here: https://www.youtube.com/watch?v=mGb7Oi5CHNc
 
 ### Retrieval-Phase:
 
